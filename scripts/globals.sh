@@ -48,7 +48,7 @@ function set_globals() {
 
   #=============== KLIPPERSCREEN ================#
   KLIPPERSCREEN_ENV="${HOME}/.KlipperScreen-env"
-  KLIPPERSCREEN_DIR="${HOME}/KlipperScreen"
+  KLIPPERSCREEN_DIR="${HOME}/KlipperScreen-yocto"
   KLIPPERSCREEN_REPO="https://github.com/AstromanGaming/KlipperScreen-yocto.git"
 
   #========== MOONRAKER-TELEGRAM-BOT ============#
